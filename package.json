@@ -11,10 +11,15 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@strapi/strapi": "4.7.1",
-    "@strapi/plugin-users-permissions": "4.7.1",
+    "@sklinet/strapi-plugin-video-field": "^1.0.4",
+    "@strapi/plugin-graphql": "^4.8.1",
     "@strapi/plugin-i18n": "4.7.1",
-    "better-sqlite3": "8.0.1"
+    "@strapi/plugin-seo": "^1.8.0",
+    "@strapi/plugin-users-permissions": "4.7.1",
+    "@strapi/strapi": "4.7.1",
+    "better-sqlite3": "8.0.1",
+    "strapi-plugin-responsive-image": "^1.0.1",
+    "strapi-plugin-update-static-content": "^1.0.5"
   },
   "author": {
     "name": "A Strapi developer"
